@@ -18,6 +18,7 @@ void Action::help(int location)
 	fprintf(stdout, "look - для осмотра местности\n");
 	fprintf(stdout, "inventory - для открытия инвенторя\n");
 	fprintf(stdout, "walk - для выбора движения и движения\n");
+	fprintf(stdout, "exit - для закрытия игры\n");
 	switch (location)
 	{
 	case 1: {break;}
