@@ -1,0 +1,10 @@
+﻿  Game.cpp
+Game.cpp(24): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1266): note:  см. объявление "_sleep"
+Game.cpp(30): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1266): note:  см. объявление "_sleep"
+Game.cpp(32): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1266): note:  см. объявление "_sleep"
+  Action.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  Game.vcxproj -> C:\2kurs\ООП\Game\Debug\Game.exe
+  Game.vcxproj -> C:\2kurs\ООП\Game\Debug\Game.pdb (Partial PDB)
