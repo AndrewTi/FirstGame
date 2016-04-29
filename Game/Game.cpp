@@ -40,6 +40,8 @@ int main()
 		if (command == "help") { act.help(location); }
 		if (command == "look") { act.look(location); }
 		if (command == "walk") { act.go(location); }
+		//добавь сюда инвентарь и его метод просмотра (не забудь добавить в help)
+		// можешь срзу тут выставить в алфавитном или по логике порядке
 		if (command == "exit") { exit(0); }
 		if (command == "-de") { act.dead_end(); }
 	}
